@@ -1,0 +1,81 @@
+/* navbar */
+
+.navbar{
+	padding: 10px;
+}
+.nav li{
+	font-size: 15px;
+	font-weight: bolder;
+}
+.HeadImg{
+	padding-top: 35px;
+}
+/* About us and other related pages*/
+.abtUs{
+	margin-top: 6%;
+	text-align: center;
+}
+.abtUs h1{
+	font-size: 36px;
+	font-weight: bold;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.about-box{
+	padding: 70px 0px;
+}
+
+.img-fluid{
+	max-width:100%;
+	height:auto;
+}
+/* end of about us and other related pages */
+
+/* projects page */
+.heading-title{
+	margin-bottom: 20px;
+}
+.heading-title h1{
+	font-size: 38px;
+	font-weight: bold;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.company-box{
+	padding: 40px 0px;
+}
+.company{
+	margin: 20px 0px;
+}
+.note h4{
+	font-weight: 600;
+	font-family: 'Arbutus Slab', serif;
+}
+/* end of projects page and other related pages */
+
+/* footer */
+.copyright{
+	margin-top: 20px;
+	position: relative;
+	display: block;
+	background-color: #010101;
+	color: lawngreen;
+	border-top: 1px dashed rgba(207, 166, 113);
+	padding: 30px 0;
+	z-index: 1;
+}
+
+.copyright .company-name{
+	font-size: 16px;
+	text-align: center;
+}
+
+/* end of footer */
+
+.inner-pt{
+	margin-top: 30px;
+}
+
+.contactRow{
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
